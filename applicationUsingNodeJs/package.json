@@ -1,0 +1,14 @@
+{
+  "name": "applicationusingnodejs",
+  "version": "1.0.0",
+  "description": "world news app using Node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debarun Mitra",
+  "license": "ISC",
+  "dependencies": {
+    "workbox-sw": "^4.3.1"
+  }
+}
